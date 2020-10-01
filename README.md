@@ -3,7 +3,7 @@
 ## Author
 Anmol Bhatt
 
-You have my permission to do whatever the fuck you want.
+You can do whatever the fuck you want.
 
 Java, javascript, php, css3 and html5.
 
